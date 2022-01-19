@@ -1,0 +1,98 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+}
+
+
+.navbar {
+    font-size: 1.5rem;
+    background-color: #1B262C;
+}
+
+.nav-item {
+    margin-left: 2rem;
+}
+
+#home{
+    margin-top: 130px;
+    font-size: 2.5rem;
+
+}
+
+.name {
+    font-weight: bolder;
+    color: #0F4C75;
+    font-size: 3rem;
+}
+
+.fotoMe {
+    border-radius: 50px;
+
+}
+
+
+#aboutMe {
+    background-color: #0F4C75;
+    color: #BBE1FA;
+    
+}
+
+.title {
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bolder;
+
+}
+
+.subtitle {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.content {
+    font-size: 1.5rem;
+    text-align: justify;
+    line-height: 180%;
+}
+
+.card {
+    background-color: #3282B8;
+
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.card-body {
+    background-color: #0F4C75;
+    color: #BBE1FA;
+    line-height: 180%;
+}
+
+.web-btn {
+    color: #BBE1FA;
+    border-color: #BBE1FA;;
+}
+
+.web-btn:hover {
+    color: #0F4C75;
+    border-color: #BBE1FA;
+    background-color:#BBE1FA ;
+}
+
+#contact {
+    background-color: #0F4C75;
+    color: #BBE1FA;
+    padding-bottom: 150px;
+}
+
+.contact-form {
+    font-size: 2rem;
+}
+
+#webfooter {
+    padding-top: 10px;
+    background-color: #1B262C;
+    color: #BBE1FA ;
+}
